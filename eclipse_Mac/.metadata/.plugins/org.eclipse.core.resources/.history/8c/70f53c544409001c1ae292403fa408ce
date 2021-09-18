@@ -1,0 +1,12 @@
+
+public class Rec1 {
+
+	public static boolean containsVowel(String s) {
+		return s.contains("a") || s.contains("e")|| s.contains("i")|| s.contains("o")|| s.contains("u");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(containsVowel("Hello world!"));
+	}
+
+}

@@ -1,0 +1,23 @@
+package xb_test;
+
+public class Counter {
+	    int count;
+	    public void increment() {
+	        count= count + 1;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Counter c1= new Counter();
+		Counter c2= new Counter();
+		c1.increment();
+		System.out.print(c1.count);
+		c2= c1;
+		c1.increment();
+		System.out.print(c2.count);
+		c1= new Counter();
+		System.out.print(c2.count);
+		c2.increment();
+		int v= c2.count;
+		System.out.print(v);
+		}
+}

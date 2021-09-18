@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;xb_test.test2.java&apos; to &apos;Counter.java&apos;&#x0D;&#x0A;- Original project: &apos;xb_test&apos;&#x0D;&#x0A;- Original element: &apos;xb_test.test2.java&apos;&#x0D;&#x0A;- Renamed element: &apos;xb_test.Counter.java&apos;" description="Rename compilation unit &apos;test2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;xb_test{test2.java" name="Counter.java" references="false" stamp="1631476884975" version="1.0"/>
+</session>

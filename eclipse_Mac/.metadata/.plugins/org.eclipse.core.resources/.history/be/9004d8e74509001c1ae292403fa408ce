@@ -1,0 +1,18 @@
+
+public class Rec1 {
+
+	public static boolean containsVowel(String s) {
+		return s.contains("a") || s.contains("e")|| s.contains("i")|| s.contains("o")|| s.contains("u");
+	}
+	
+	public static String dateToString(int d, int m, int y) {
+		String date=(d+" "+m+" "+y);
+		return date;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(containsVowel("Hello world!"));
+		System.out.println(dateToString(28,8,2018));
+	}
+
+}

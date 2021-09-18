@@ -1,0 +1,19 @@
+CS2110 HW1
+
+Problem 1. Write the algorithm for executing the Java assignment statement <variable>= <expression>;
+- Evaluate the <expression>
+- Store its value in the <variable>
+
+Problem 2. Write the algorithm for executing the Java if-statement
+           if (<boolean-expression>) <statement 1>
+- Evaluate the <boolean-expression>
+- Execute <statement 1> if the value of evaluation is True
+
+Problem 3. Write the algorithm for executing the Java if-else-statement
+           if (<boolean-expression>) <statement 1> else <statement 2>
+- Evaluate the <boolean-expression>
+- Execute <statement 1> if the value of evaluation is True
+- Execute <statement 2> if the value of evaluation is False
+
+Problem 4. Tell us in a few words what you thought of the videos on presenting algorithms in English and executing the assignment statement, their message, and the homework.
+- The examples of "Recipe" vividly shows what to present and what not to present. I understand that making commands but not introductions.

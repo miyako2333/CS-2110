@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/pauvrete/Nutstore Files/Cornell/S1/CS 2110/eclipse_Mac/.metadata/.plugins/org.eclipse.jdt.core
+362223178.index
+33544597.index

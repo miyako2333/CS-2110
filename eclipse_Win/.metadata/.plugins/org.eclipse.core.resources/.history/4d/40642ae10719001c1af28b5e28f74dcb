@@ -3,7 +3,7 @@ package a3;
 import java.util.Arrays;
 
 /* NetIds: bx83.
- * What I thought about this assignment: The practice is good but I think I need answers after the assignment.
+ * What I thought about this assignment:
  *
  *
  *
@@ -42,7 +42,7 @@ public class A3 {
      * Example: for 3 hours 15 minutes, use 3.25<br>
      * Example: for 4 hours 30 minutes, use 4.50<br>
      * Example: for 5 hours, use 5 or 5.0 */
-    public static double timeSpent= 3.0;
+    public static double timeSpent= -1;
 
     /** Return true iff (i.e. if and only if) the middle characters of s are different. <br>
      * Note: If s has an odd number of chars, there is ONE middle char, so return false.<br>

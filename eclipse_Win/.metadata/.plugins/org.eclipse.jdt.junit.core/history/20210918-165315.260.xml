@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="A3Test" project="Assign3" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="a3.A3Test" time="0.021" displayname="A3Test" uniqueid="[engine:junit-jupiter]/[class:a3.A3Test]">
-    <testcase name="testProtectLittles" classname="a3.A3Test" time="0.02" displayname="testProtectLittles()" uniqueid="[engine:junit-jupiter]/[class:a3.A3Test]/[method:testProtectLittles()]"/>
-    <testcase name="testAreMidsDiff" classname="a3.A3Test" time="0.001" displayname="testAreMidsDiff()" uniqueid="[engine:junit-jupiter]/[class:a3.A3Test]/[method:testAreMidsDiff()]"/>
-  </testsuite>
-</testrun>
